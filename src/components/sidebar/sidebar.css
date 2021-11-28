@@ -1,0 +1,45 @@
+.sidebar_main {
+    flex: 1.5;
+    /* background-color: #34363A; */
+    background-color: #181818;
+    height: 100%;
+    color: #fff;
+}
+.sidebar_wrapper  {
+    padding: 1.5rem 0;
+    text-align: center;
+}
+.sidebar_brand {
+    padding-bottom: 2rem;
+}
+.sidebar_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+.sidebar_list_item {
+    text-align: center;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+.sidebar_list_item:hover {
+    background-color: #000;
+}
+.sidebar_list_item_text {
+    letter-spacing:1px;
+}
+.slidebar_logout {
+    width: 12.5%;
+    position: fixed;
+    bottom: 0;
+    cursor: pointer;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+.slidebar_logout:hover {
+    background-color: #000;
+}

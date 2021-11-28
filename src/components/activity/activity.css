@@ -1,0 +1,10 @@
+.activity_main {
+    flex: 10.5;
+    /* background-color: #181818; */
+    background-color: #000;
+    height: 100%;
+    color: #fff;
+}
+.sample {
+    margin: 25%;
+}
