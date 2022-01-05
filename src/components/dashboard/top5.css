@@ -1,0 +1,11 @@
+.top5_main {
+    /* flex: 10.5; */
+    /* background-color: #181818; */
+    background-color: rgb(63, 28, 102);
+    height: calc(-3rem + 40vh);
+    margin-bottom: 1.5rem;
+    color: #fff;
+}
+.top5_wrapper {
+    padding: 1.5rem;
+}
