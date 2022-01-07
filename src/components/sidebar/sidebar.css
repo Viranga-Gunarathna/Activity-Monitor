@@ -43,3 +43,6 @@
 .slidebar_logout:hover {
     background-color: #000;
 }
+Link {
+    text-decoration: none;
+}
